@@ -1,2 +1,2 @@
-# soph-set
+# SophSet
 ECE361 Software Engineering Final Project
